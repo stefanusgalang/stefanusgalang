@@ -20,15 +20,15 @@ My name is Stefanus Galang
 
 ### ⚡ Fun fact: 
 
--A reader, Learner
+- A reader, Learner
 
--Tech Enthusiast
+- Tech Enthusiast
 
--A Japanese Teacher 
+- A Japanese Teacher 
 
--A Certified Website Developer 
+-  Certified Website Developer 
 
--I love hiking
+- I love hiking
 
 
 ### 📚 Quotes:
