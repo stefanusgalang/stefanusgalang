@@ -4,7 +4,13 @@ My name is Stefanus Galang
 
 ### 🔭 I’m currently a freelance Web Designer and Web Developer
 
->Hello, world !. I'm a Web developer based in Indonesia. My top skills include HTML, CSS, and WordPress
+>Hello, world !. I'm a Web Developer and Web Designer based in Indonesia. My top skills include HTML, CSS, WordPress, and Figma. 
+>I build website for :
+  -Personal Website
+  -Company Profile
+  -E-commerce
+  -etc 
+>I'm open to Job opportunities where I can grow and learn. Don't hesitate to contact me. 
 
 ### 🌱 I’m currently learning 
 
